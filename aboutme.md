@@ -4,14 +4,13 @@ title: About me
 subtitle: Welcome to my personal website!
 ---
 
-My name is YouJung Koo. I am currently a undegradaute student at the Electronic Engineering department, Hanyang Univeristy. 
+My name is YouJung Koo. I am currently an undegradaute student at the Electronic Engineering department, Hanyang Univeristy. 
 
 My Interests is :
 
 - Applying data
 - Designing an efficient algorithm
 
-What else do you need?
 
 ### My story
 

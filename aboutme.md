@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Welcome to my personal website!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is YouJung Koo. I am currently a undegradaute student at the Electronic Engineering department, Hanyang Univeristy. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My Interests is :
+
+- Applying data
+- Designing an efficient algorithm
 
 What else do you need?
 

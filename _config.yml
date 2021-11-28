@@ -4,6 +4,8 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
+url: "http://harren7.github.com"
+baseurl: ""
 
 # Name of website
 title: YouJung Koo

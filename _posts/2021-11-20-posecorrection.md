@@ -10,7 +10,7 @@ This is how we always end up on a chair...
 
 ## Motivation 
 
-Since the pandemice, we are stuck at home and spend so many hours alone infront of the dest. What happens when we're sitting on a chair? We start to lean forward, lean to the side, cross out legs and more... To save us from intense back pain, I came up with the idea to provide a program that detects people's body posture and provide correction.
+Since the pandemic, we are stuck at home and spend so many hours infront of a desk. What happens when we're sitting on a chair? We start to lean forward, lean to the side, cross out legs and rest on our chin. To save us from intense back pain, I came up with the idea to provide a program that provide body posture correction. 
 
 ## What you to make a Pose Correction program
 

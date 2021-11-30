@@ -17,7 +17,7 @@ Since the pandemic, we are stuck at home and spend so many hours infront of a de
 
 You need a camera that can be connected to the Jetson Nano developer tool, image dataset, and a neural network. And of course the Jetson Nano developer kit. You may also use the more expensive kits to store more data.
 
-I used the Raspberry camera (because it was really affordable) and crawled human pose images on Google. I first intended to use the Coco dataset, however, the dataset size (20G) exceeded Jetson Nano's memory size so I couldn't use it.
+I used the Raspberry camera (very affordable) and crawled human pose images on Google. My initial intention was to use the Coco dataset, however, the size of the dataset (20G) exceeded Jetson Nano's memory size. 
 To improve the accuracy and lower the latency, instead of using the conventional Resnet, Densenet, and MobileNet networks, I chose Mnasnet.
 
 ## The Pose Correction algorithms

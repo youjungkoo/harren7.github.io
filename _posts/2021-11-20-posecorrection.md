@@ -13,7 +13,7 @@ tags: [Object Detection, Machine Learning]
 
 Since the pandemic, we are stuck at home and spend so many hours infront of a desk. What happens when we're sitting on a chair? We start to lean forward, lean to the side, cross out legs and rest on our chin. To save us from intense back pain, I came up with the idea to provide a program that provide body posture correction. 
 
-## What you to make a Pose Correction program
+## Important materials
 
 You need a camera that can be connected to the Jetson Nano developer tool, image dataset, and a neural network.
 

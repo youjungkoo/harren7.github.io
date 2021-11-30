@@ -74,6 +74,7 @@ def check_headdrop(lefteye_y, leftear_y) :
 ## Demo Video
 
 Here is a gif demo showing how the program works!
+
 ![gif](/assets/img/pc_SparkVideo.gif)
 
 

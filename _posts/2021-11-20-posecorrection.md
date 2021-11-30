@@ -5,8 +5,9 @@ subtitle: Object Detection using NVIDIA Jetson Nano
 tags: [Object Detection, Machine Learning]
 ---
 
-This is how we always end up on a chair...
 ![Photo](/assets/img/pc1.png)
+
+This is how we always end up sitting on a chair...
 
 ## Motivation 
 

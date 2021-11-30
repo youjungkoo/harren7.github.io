@@ -5,8 +5,8 @@ subtitle: Object Detection using NVIDIA Jetson Nano
 tags: [Object Detection, Machine Learning]
 ---
 
-This is how we end up on a chair...
-![Photo](https://drive.google.com/file/d/10QSOy1IV-1Viqbvpk3lWAsLYAPtIqcpk/view?usp=sharing)
+This is how we always end up on a chair...
+![Photo](/assets/img/pc1.png)
 
 ## Motivation 
 
@@ -73,7 +73,7 @@ def check_headdrop(lefteye_y, leftear_y) :
 ## Demo Video
 
 Here is a gif demo showing how the program works!
-![gif](https://drive.google.com/file/d/14IaA7D5BpmTj-6PBU032P7_Djwybzj42/view?usp=sharing)
+![gif](/assets/img/pc_SparkVideo.gif)
 
 
 

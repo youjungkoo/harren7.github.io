@@ -15,7 +15,7 @@ Since the pandemic, we are stuck at home and spend so many hours infront of a de
 
 ## Important materials
 
-You need a camera that can be connected to the Jetson Nano developer tool, image dataset, and a neural network.
+You need a camera that can be connected to the Jetson Nano developer tool, image dataset, and a neural network. And of course the Jetson Nano developer kit. You may also use the more expensive kits to store more data.
 
 I used the Raspberry camera (because it was really affordable) and crawled human pose images on Google. I first intended to use the Coco dataset, however, the dataset size (20G) exceeded Jetson Nano's memory size so I couldn't use it.
 To improve the accuracy and lower the latency, instead of using the conventional Resnet, Densenet, and MobileNet networks, I chose Mnasnet.

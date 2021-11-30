@@ -7,7 +7,7 @@ tags: [Object Detection, Machine Learning]
 
 ![Photo](/assets/img/pc1.png)
 
-This is how we always end up sitting on a chair...
+*This is how we always end up sitting on a chair...*
 
 ## Motivation 
 
